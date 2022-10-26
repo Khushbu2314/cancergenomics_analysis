@@ -1,3 +1,4 @@
+setwd('C:\\Users\\sai\\Documents\\R')
 data_file=read.csv("GSE168009_Raw_count.csv",row.names=1)
 #z-score
 library(matrixStats)
