@@ -1,4 +1,5 @@
-Project name : gene  expression analysis and survival analysis
+Project name : Gene  expression analysis and survival analysis
+
 Introduction:The determination of the pattern of genes expressed at the level of genetic transcription, under specific circumstances or in a specific cell,is called as gene expression analysis.The expression studies are directed to detect and quantify messenger RNA (mRNA) levels of a specific gene.It  comprises from the gene activation until the mature protein is located in its corresponding compartment to perform its function and contribute to the expression of the phenotype of cell.
 
  Here I choose Cervical cancer dataset downloaded from NCBI GEO(https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE168009)
