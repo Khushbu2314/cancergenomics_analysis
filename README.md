@@ -24,4 +24,10 @@ log2cpm=mean(vec1) - mean(vec2)
 
 6.Survival analysis:It involves statistical measures and implementations for data analysis where the outcome variable of interest is time until an event occurs.
 
-7.Single cell analysis:
+7.Single cell RNA-Seq analysis:scRNA allows us to understand cellular differences in expression, and hence it is directly applicable to the studies of cell heterogeneity, cell population and subpopulation identification, effects of low copy mRNA distribution and transcriptional regulation.Single cell RNA-seq data used here is generated using the 10X genomics platform.
+Here I took cervical cancer dataset for single cell RNA-Seq analysis(https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190075) and from the mentioned dataset I choose the files given below 
+GSM5712850_CC04_barcodes.tsv.gz
+GSM5712850_CC04_features.tsv.gz
+GSM5712850_CC04_matrix.mtx.gz 
+as custom files for Single cell RNA-Seq analysis.
+It further visualizes the violin plot,elbow plot,heatmaps,scatterplots.
